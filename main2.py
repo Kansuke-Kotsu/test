@@ -10,7 +10,7 @@ import cv2
 
 imsize = (64, 64)
 testpic     = "dog1.jpeg"
-keras_param = "model/cnn20.h5"
+keras_param = "cnn20.h5"
 
 def load_image(path):
         img = Image.open(path)
