@@ -1,4 +1,4 @@
 tensorflow
 keras
 h5py
-opencv
+opencv-python
