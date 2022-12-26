@@ -1,3 +1,4 @@
 tensorflow
 keras
 h5py
+cv2
